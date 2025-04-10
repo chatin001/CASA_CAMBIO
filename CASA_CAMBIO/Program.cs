@@ -27,6 +27,7 @@ namespace CASA_CAMBIO
             double tcd = 0;
             double tce = 4.20;
 
+
             //Creamos la estructura
             switch (opcion) //Evaluo valor de la variable
             {
